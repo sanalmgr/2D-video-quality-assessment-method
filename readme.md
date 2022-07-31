@@ -6,9 +6,9 @@ We propose a yet lightweight no-reference (NR) video quality assessment (VQA) me
 
 ## Code to generate selected number of frames:
 Downsampling:
-[part 1](https://www.youtube.com/watch?v=C0sSA508zBc)
-[part 2](https://www.youtube.com/watch?v=yuHxokzIh5U), and 
-[part 3](https://www.youtube.com/watch?v=D6ROERxx25I)
+- [part 1](https://www.youtube.com/watch?v=C0sSA508zBc)
+- [part 2](https://www.youtube.com/watch?v=yuHxokzIh5U), and 
+- [part 3](https://www.youtube.com/watch?v=D6ROERxx25I)
 
 ## Requirements
 - Python
