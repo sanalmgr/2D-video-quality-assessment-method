@@ -13,3 +13,17 @@ Downsampling:
 ## Requirements
 - Python
 - Chainer
+
+# Cite this article:
+```
+@article{10.1117/1.JEI.30.6.063001,
+  author = {Sana Alamgeer and Muhammad Irshad and Myl{\`e}ne C. Q. Farias},
+  title = {{CNN-based no-reference video quality assessment method using a spatiotemporal saliency patch selection procedure}},
+  volume = {30},
+  journal = {Journal of Electronic Imaging},
+  number = {6},
+  publisher = {SPIE},
+  pages = {063001},
+  year = {2021}
+}
+```
